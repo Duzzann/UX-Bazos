@@ -1,0 +1,682 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-2Zf {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o {
+  width: 146.5rem;
+  height: 19.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .rectangle-10-HVb {
+  width: 146.5rem;
+  height: 15.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .rectangle-9-cnm {
+  width: 144rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 0;
+  top: 14.1rem;
+  border: solid 1.5rem rgba(255, 174, 99, 0.5);
+  box-sizing: border-box;
+  background-color: #ffae63;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .bazosk-wa9 {
+  width: 36.4rem;
+  height: 10.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 13rem;
+  top: 1.7rem;
+  font-size: 8.5rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffae63;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .bootstrap1-1-EZF {
+  width: 7.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ {
+  width: 30.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 106.7rem;
+  top: 3.6rem;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .obben-WFs {
+  width: 9.4rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 5.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #060300;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .profil-1TX {
+  width: 4.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 5.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .nav-options-Xgm {
+  width: 28.2rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .nav-options-Xgm .auto-group-nbhb-GPT {
+  box-sizing: border-box;
+  padding: 0rem 6.4rem 0rem 0.275rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .nav-options-Xgm .auto-group-nbhb-GPT .bag-heart-1-169 {
+  margin-right: 7.575rem;
+  width: 3.85rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .nav-options-Xgm .auto-group-nbhb-GPT .person-circle-1-Lu7 {
+  width: 4.4rem;
+  height: 4.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .nav-options-Xgm .auto-group-ifdj-fgV {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .nav-options-Xgm .auto-group-ifdj-fgV .plus-circle-fill-1-Di1 {
+  margin: 0rem 0rem 0.9rem 0.1rem;
+  width: 4.4rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-c1kp-Z3o .component-5-NQZ .nav-options-Xgm .auto-group-ifdj-fgV .prida-we1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq {
+  box-sizing: border-box;
+  padding: 5.1rem 7.6rem 2.3rem 7.6rem;
+  width: 147.6rem;
+  height: 83.9rem;
+  position: absolute;
+  left: 0;
+  top: 19.3rem;
+  background-color: rgba(255, 174, 99, 0.1000000015);
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .registrcia--3DB {
+  margin: 0rem 0rem 0.6rem 5.3rem;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .line-13-AYh {
+  margin: 0rem 0rem 4.9rem 5.3rem;
+  width: 26.4rem;
+  height: 0.2rem;
+  background-color: #ffae63;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM {
+  margin: 0rem 18.5rem 1.4rem 5.3rem;
+  width: calc(100% - 23.8rem);
+  height: 25.2rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 {
+  box-sizing: border-box;
+  padding: 2.7rem 28.7rem 2.4rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-ujq3-m2h {
+  margin: 0.488rem 3rem 0rem 0rem;
+  row-gap: 4.4875rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-ujq3-m2h .person-1-VDb {
+  width: 2.925rem;
+  height: 2.925rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-ujq3-m2h .phone-1-pmf {
+  width: 2.4375rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-ujq3-m2h .envelope-at-1-NHP {
+  width: 3.9rem;
+  height: 3.4125rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-5tm3-6z5 {
+  margin-right: 1.6rem;
+  width: 42.9rem;
+  height: 100%;
+  row-gap: 3.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-5tm3-6z5 .auto-group-zzfb-dDK {
+  box-sizing: border-box;
+  padding: 0.5rem 2.5rem 0.6rem 2.5rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffae63;
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-5tm3-6z5 .auto-group-8ww7-gxH {
+  box-sizing: border-box;
+  padding: 0.5rem 2.5rem 0.6rem 2.5rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffae63;
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .auto-group-5tm3-6z5 .auto-group-n7ah-B8M {
+  box-sizing: border-box;
+  padding: 0.4rem 2.5rem 0.7rem 2.5rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffae63;
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .auto-group-e2sm-257 .patch-check-fill-2-sG5 {
+  margin-bottom: 0rem;
+  width: 3.3rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .person-bounding-box-1-17P {
+  box-sizing: border-box;
+  padding: 3.15rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-qsf.png');
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-nvvh-6SM .person-bounding-box-1-17P .vector-kKs {
+  width: 18.9rem;
+  height: 18.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-jyzx-sQV {
+  margin: 0rem 0rem 2.8rem 5.788rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-jyzx-sQV .geo-alt-1-p4q {
+  margin: 0rem 3.488rem 1.3rem 0rem;
+  width: 2.925rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-jyzx-sQV .auto-group-qest-M4m {
+  margin: 0rem 33.6rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.5rem 2.5rem 0.6rem 2.5rem;
+  width: 42.9rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #ffae63;
+  background-color: #ffffff;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-jyzx-sQV .voliteln-aiD {
+  margin: 1.4rem 2.7rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: rgba(0, 0, 0, 0.3000000119);
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-jyzx-sQV .auto-group-k1xu-Gb3 {
+  margin-top: 1.8rem;
+  width: 11rem;
+  height: 3.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem #ffae63;
+  box-sizing: border-box;
+  background-color: #ffae63;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-k9zk-tcR {
+  margin: 0rem 0rem 0.488rem 5.3rem;
+  display: flex;
+  align-items: flex-end;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-k9zk-tcR .person-vcard-1-Deh {
+  margin-right: 3.0002rem;
+  width: 3.9rem;
+  height: 2.925rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-k9zk-tcR .patch-check-fill-1-xMP {
+  margin: 0rem 2rem 0.013rem 0rem;
+  width: 3.2997rem;
+  height: 3.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-k9zk-tcR .voliteln-4vD {
+  margin-bottom: 0.1125rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: rgba(0, 0, 0, 0.3000000119);
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-pfxf-Bjw {
+  margin: 0rem 33.2rem 3.9rem 5.3rem;
+  width: calc(100% - 38.5rem);
+  height: 18.5rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-pfxf-Bjw .auto-group-4zzw-WnD {
+  margin: 5.4rem 44.7rem 6rem 0rem;
+  width: 19.9rem;
+  height: calc(100% - 11.4rem);
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem #ffae63;
+  box-sizing: border-box;
+  background-color: #ffae63;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-pfxf-Bjw .auto-group-bmvh-yvh {
+  box-sizing: border-box;
+  padding: 1.4rem 0.4rem 1.9rem 1.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.4rem #ffae63;
+  background-color: #ffffff;
+  border-radius: 0 4rem 4rem 4rem;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-pfxf-Bjw .auto-group-bmvh-yvh .info-square-1-82u {
+  width: 2.7rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .auto-group-pfxf-Bjw .auto-group-bmvh-yvh .v-prpade-potreby-nevhajte-kontaktova-online-podporu-24-7-v-dolnej-asti-strnky-fHj {
+  margin-left: 3.3rem;
+  max-width: 24.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj {
+  max-width: 93.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-3 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-5 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-6 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-7 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-8 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-9 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-10 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-11 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-12 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-13 {
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-14 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-15 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-16 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-17 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .auto-group-6qvw-wvq .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj .bazo-inzercia-bazr-pomoc-otzky-hodnotenie-kontakt-reklama-podmienky-inzerty-celkom-1108063-inzercia-za-24-hodn-54796-mapa-kategri-najvyhadvanejie-vrazy-tmav-motv-zapnut-gTj-sub-18 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+}
+.desktop-2-2Zf .component-12-uj7 {
+  box-sizing: border-box;
+  padding: 0rem 0rem 0rem 0rem;
+  width: 20.9rem;
+  height: 14.7rem;
+  position: absolute;
+  left: 111rem;
+  top: 76.1rem;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-6rad-c7j {
+  margin-bottom: 2.4001rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-6rad-c7j .patch-check-fill-3-kjj {
+  margin-right: 3.4002rem;
+  width: 3.2997rem;
+  height: 3.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-6rad-c7j .verifikovan-t5F {
+  margin-bottom: 0.0998rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-rpfw-cG9 {
+  margin: 0rem 0.2rem 2.4rem 0rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-rpfw-cG9 .patch-question-fill-1-KAZ {
+  margin-right: 3.4002rem;
+  width: 3.2997rem;
+  height: 3.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-rpfw-cG9 .spracva-sa-F4D {
+  margin-bottom: 0.0998rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-79f7-a6V {
+  margin-right: 1.1rem;
+  width: calc(100% - 1.1rem);
+  display: flex;
+  align-items: center;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-79f7-a6V .patch-exclamation-fill-1-uuT {
+  margin-right: 3.4002rem;
+  width: 3.2997rem;
+  height: 3.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-2Zf .component-12-uj7 .auto-group-79f7-a6V .zamietnut-TAH {
+  margin-bottom: 0.0998rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
